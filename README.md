@@ -7,9 +7,9 @@
 <p align="left"> <a href="https://twitter.com/thierryribeir0" target="blank"><img src="https://img.shields.io/twitter/follow/thierryribeir0?logo=twitter&style=for-the-badge" alt="thierryribeir0" /></a> </p>
 
 - 📫 thierry72019@gmail.com 
-- 🎮 JOGOS 
-- 🏃 EXERCÍCIOS 
-- 📚 LIVROS 
+- 🎮 
+- 🏃 
+- 📚 
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
