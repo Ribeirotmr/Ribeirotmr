@@ -11,7 +11,7 @@
 - 📫 thierry72019@gmail.com 
 - 🎮 Jogos
 - 🏃 Triatleta
-- 📚 Leitor -- Record 5 livros em 3 semanas --
+- 📚 Leitor 
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
