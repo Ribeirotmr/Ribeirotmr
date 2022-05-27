@@ -15,6 +15,7 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
+ <a href="https://wa.me/5527996159069" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="thierryribeir0" height="30" width="40" /> 
 <a href="https://twitter.com/thierryribeir0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thierryribeir0" height="30" width="40" /></a>
 <a href="https://instagram.com/thierryribeir0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thierryribeir0" height="30" width="40" /></a>
 <a href="https://discord.gg/Th1Ɛrry#5580" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Th1Ɛrry#5580" height="30" width="40" /></a>
