@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu me chamo Thierry Ribeiro</h1>
-<h3 align="center">Estudante Ciencia da Computação <img src = "https://img.icons8.com/?size=100&id=Q7WYBQXFZyAr&format=png&color=000000" </img> </h3>
+<h3 align="center">Estudante de Estatística e entusiasta em programação <img src = "https://img.icons8.com/?size=100&id=Q7WYBQXFZyAr&format=png&color=000000" </img> </h3>
 <img align="right" width="400" src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*VMmvImch6VU5pc2VktY1uw.gif">
 
 
