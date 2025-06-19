@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, Eu me chamo Thierry Ribeiro <img src = "https://img.icons8.com/?size=100&id=Q7WYBQXFZyAr&format=png&color=000000" </img></h1> 
 <h3 align="center">Estudante de Estatística | Entusiasta em Computação Quântica e Programação</h3>
-<img aling="center" width="400" src="https://camo.githubusercontent.com/b0087f765b222ddb6ac3e86eeed5039b83f200c30c3d761fd580a7efade8176f/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a343830302f666f726d61743a776562702f312a564d6d76496d636836565535706332566b74593175772e676966">
+<img aling="center" width="400" src="pagina.gir">
 
 - 🧠 Iniciação Científica **Computação Quântica: teoria e aplicações**
 
