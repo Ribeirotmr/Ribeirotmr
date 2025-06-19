@@ -1,5 +1,7 @@
-<h1 align="center">Olá 👋, Eu me chamo Thierry Ribeiro <img src = "![image](https://github.com/user-attachments/assets/d8f81cb7-4413-4bd3-9dfe-c42cc9e9e6d8)
-" </img></h1> 
+<h1 align="center">
+  Olá 👋, Eu me chamo Thierry Ribeiro
+  <img src="https://github.com/Ribeirotmr/Ribeirotmr/blob/main/machine-learning.png" width="80" style="vertical-align: middle;" />
+</h1>
 <h3 align="center">Estudante de Estatística | Entusiasta em Computação Quântica e Programação</h3>
 <div align="center">
   <img src="https://github.com/Ribeirotmr/Ribeirotmr/blob/main/pagina.gif" width="400" />
