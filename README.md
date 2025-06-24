@@ -9,7 +9,7 @@
 
 - 🧠 Iniciação Científica **Computação Quântica: teoria e aplicações**
 
-- 👨‍💻 My page loading... [https://ribeirotmr.github.io/Minha-pagina/](https://ribeirotmr.github.io/Minha-pagina/)
+- 👨‍💻 My page loading... [https://ribeirotmr.github.io/Minha-pagina/](https://ribeirotmr.github.io/portifolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
